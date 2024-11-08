@@ -1,4 +1,4 @@
-# Project on AWS S3
+# AWS_S3_static_website_deployment_with_custom_error_handling
 
 ## Overview
 This project is a static website hosted on Amazon S3. It includes HTML & CSS for a clean, interactive, and visually appealing user experience. This site demonstrates basic S3 hosting, file uploads, and downloads, with a setup for handling errors with an error page.
